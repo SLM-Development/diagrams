@@ -79,12 +79,12 @@
           <mxGeometry x="400" y="419" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AOmEQFrza_Vivdpul7TQ-66" value="Domain Event Hub" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="120" width="220" height="550" as="geometry">
+          <mxGeometry x="360" y="320" width="220" height="350" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AOmEQFrza_Vivdpul7TQ-43" value="Dynamo DB" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" parent="AOmEQFrza_Vivdpul7TQ-66" vertex="1">
-          <mxGeometry x="118" y="426" width="78" height="78" as="geometry" />
+          <mxGeometry x="118" y="226" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AOmEQFrza_Vivdpul7TQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AOmEQFrza_Vivdpul7TQ-36" target="AOmEQFrza_Vivdpul7TQ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
