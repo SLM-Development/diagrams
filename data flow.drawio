@@ -1,9 +1,124 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="O89ovXxCNjjIfcfjvDJy">
-    <mxGraphModel>
+    <mxGraphModel dx="1032" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-8" target="ih_PP5bFMo47PAL6C7FW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-2" value="Event: User Authorisation Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-1">
+          <mxGeometry x="-0.3391" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-5" target="ih_PP5bFMo47PAL6C7FW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-4" value="SSO OIDC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-3">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-5" value="Thanos Front End" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="204" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-8" target="ih_PP5bFMo47PAL6C7FW-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="480" />
+              <mxPoint x="514" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-7" value="Events #UserProfile:&amp;nbsp;&lt;div&gt;User Profile Created&lt;div&gt;User Profile Updated&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-6">
+          <mxGeometry x="-0.478" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-8" value="Auth0&lt;div&gt;Identity Provider Authentication &amp;amp; Authorisation&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="464" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-9" value="ARIA&lt;div&gt;Subscription Contract &amp;amp; Billing Management&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="474" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-14" target="ih_PP5bFMo47PAL6C7FW-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="344" y="560" />
+              <mxPoint x="344" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-11" value="API Call: Get Normalised User Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-10">
+          <mxGeometry x="0.0114" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-14" target="ih_PP5bFMo47PAL6C7FW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-13" value="Event Listener:&amp;nbsp;&lt;div&gt;#UserProfile Topics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-12">
+          <mxGeometry x="0.19" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-14" value="&lt;div&gt;Iterable&amp;nbsp;&lt;/div&gt;&lt;div&gt;Marketing Automation&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="204" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-17" target="ih_PP5bFMo47PAL6C7FW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-16" value="anna.andersson@hotmail.com" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-15">
+          <mxGeometry x="0.45" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-17" value="&lt;font color=&quot;#ffffff&quot;&gt;B2C User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="114" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-18" value="Segment.io" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="634" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-19" value="Event Bridge (AWS) or Kafka (Azure)" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="474" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-18" target="ih_PP5bFMo47PAL6C7FW-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="579.5" as="sourcePoint" />
+            <mxPoint x="864" y="579.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-21" value="Event Listener:&amp;nbsp;&lt;div&gt;#UserProfile Topics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-20">
+          <mxGeometry x="0.19" y="-2" relative="1" as="geometry">
+            <mxPoint x="27" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-9" target="ih_PP5bFMo47PAL6C7FW-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="640" as="sourcePoint" />
+            <mxPoint x="564" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-23" value="Event Listener:&amp;nbsp;&lt;div&gt;#UserProfile Topics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih_PP5bFMo47PAL6C7FW-22">
+          <mxGeometry x="0.19" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-25" value="sven.svensson@goteborgenergi.se" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-26" target="ih_PP5bFMo47PAL6C7FW-28">
+          <mxGeometry x="0.1818" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-26" value="&lt;font color=&quot;#ffffff&quot;&gt;B2B User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="564" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="ih_PP5bFMo47PAL6C7FW-28" target="ih_PP5bFMo47PAL6C7FW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih_PP5bFMo47PAL6C7FW-28" value="Okta Enterprise Adapter" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="604" y="345" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
