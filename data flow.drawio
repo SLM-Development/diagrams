@@ -128,7 +128,7 @@
         <mxCell id="5BYfg4yBieu142UboZly-7" value="Authorisation Mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5BYfg4yBieu142UboZly-8" value="Event Distribution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5BYfg4yBieu142UboZly-8" value="Event Delivery Mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530" y="574.5" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5BYfg4yBieu142UboZly-10" value="User Experience Mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
