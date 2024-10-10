@@ -74,7 +74,7 @@
         <mxCell id="3t2poUQqlpVYaqUKuZvh-26" value="Marketing Automation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="790" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-29" value="Customer Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-29" value="Customer Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="650" y="790" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3t2poUQqlpVYaqUKuZvh-32" value="Event Delivery Mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
