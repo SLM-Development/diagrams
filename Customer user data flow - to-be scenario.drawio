@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.7.17" pages="2">
   <diagram name="Non-paying customers" id="YYRwiA1xToAAdd3JtBlB">
-    <mxGraphModel dx="1026" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="807" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,21 +103,21 @@
             <mxPoint x="430" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-39" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;" vertex="1" parent="1">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-39" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="430" width="131" height="80" as="geometry">
             <mxRectangle x="349" y="430" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-40" value="Förnamn:&lt;div&gt;Efternamn:&lt;/div&gt;&lt;div&gt;Emailadress:&lt;/div&gt;&lt;div&gt;Telefonnummer:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-39">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-40" value="Förnamn:&lt;div&gt;Efternamn:&lt;/div&gt;&lt;div&gt;Emailadress:&lt;/div&gt;&lt;div&gt;Telefonnummer:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-39">
           <mxGeometry x="10" y="20" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-41" value="Extended User Profile&lt;div&gt;Segment.io variant&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;startSize=30;" vertex="1" parent="1">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-41" value="Extended User Profile&lt;div&gt;Segment.io variant&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;startSize=30;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="820" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3t2poUQqlpVYaqUKuZvh-42" value="Customer Segment:&lt;div&gt;Telephone:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Christian Name:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.47,0,-6,0],[0,0.72,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-41">
           <mxGeometry x="31" y="25" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-43" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-41">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-43" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-41">
           <mxGeometry x="41" y="80" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3t2poUQqlpVYaqUKuZvh-44" value="Förnamn:&lt;div&gt;Efternamn:&lt;/div&gt;&lt;div&gt;Emailadress:&lt;/div&gt;&lt;div&gt;Telefonnummer:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.37,0,-6,0],[0,0.77,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-43">
@@ -141,13 +141,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-47" value="Extended User Profile&lt;div style=&quot;font-size: 12px;&quot;&gt;Iterable Variant&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;startSize=30;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-47" value="Extended User Profile&lt;div style=&quot;font-size: 12px;&quot;&gt;Iterable Variant&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;startSize=30;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="820" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3t2poUQqlpVYaqUKuZvh-48" value="Newsletters:&lt;div&gt;Topic Interests:&lt;br&gt;&lt;div&gt;Phone:&lt;/div&gt;&lt;div&gt;Family Name:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.59,0,-6,0],[0,0.79,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-47">
           <mxGeometry x="33" y="25" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-49" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-47">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-49" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-47">
           <mxGeometry x="39" y="93" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3t2poUQqlpVYaqUKuZvh-50" value="Förnamn:&lt;div style=&quot;font-size: 10px;&quot;&gt;Efternamn:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Emailadress:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Telefonnummer:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.37,0,-6,0],[0,0.77,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="3t2poUQqlpVYaqUKuZvh-49">
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FymMR3PM9aJKeHiOm6oR" name="Paying customers">
-    <mxGraphModel dx="1026" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="807" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,7 +373,7 @@
             <mxPoint x="430" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8qgibkEP4KIhBPvQSuZ9-37" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;" vertex="1" parent="1">
+        <mxCell id="8qgibkEP4KIhBPvQSuZ9-37" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="430" width="131" height="90" as="geometry">
             <mxRectangle x="349" y="430" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -381,13 +381,13 @@
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-38" value="Förnamn:&lt;div&gt;Efternamn:&lt;/div&gt;&lt;div&gt;Emailadress:&lt;/div&gt;&lt;div&gt;Telefonnummer:&lt;/div&gt;&lt;div&gt;Personnummer:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="8qgibkEP4KIhBPvQSuZ9-37">
           <mxGeometry x="10" y="18" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8qgibkEP4KIhBPvQSuZ9-39" value="Extended User Profile&lt;div&gt;ARIA variant&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;startSize=30;swimlaneLine=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="8qgibkEP4KIhBPvQSuZ9-39" value="Extended User Profile&lt;div&gt;ARIA variant&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;startSize=30;swimlaneLine=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="565" y="750" width="190" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="8qgibkEP4KIhBPvQSuZ9-40" value="Contract Number:&lt;div&gt;Telephone:&lt;br&gt;&lt;div&gt;Products:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Christian Name:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.39,0,-6,0],[0,0.79,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="8qgibkEP4KIhBPvQSuZ9-39">
-          <mxGeometry x="42" y="23" width="120" height="70" as="geometry" />
+        <mxCell id="8qgibkEP4KIhBPvQSuZ9-40" value="Contract Number:&lt;div&gt;Telephone:&lt;br&gt;&lt;div&gt;Products:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Christian Name:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.39,0,-6,0],[0,0.79,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="8qgibkEP4KIhBPvQSuZ9-39">
+          <mxGeometry x="42" y="27" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8qgibkEP4KIhBPvQSuZ9-41" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;" vertex="1" parent="8qgibkEP4KIhBPvQSuZ9-39">
+        <mxCell id="8qgibkEP4KIhBPvQSuZ9-41" value="Normalised User Profile" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=right;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="8qgibkEP4KIhBPvQSuZ9-39">
           <mxGeometry x="52" y="95" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-42" value="Förnamn:&lt;div&gt;Efternamn:&lt;/div&gt;&lt;div&gt;Emailadress:&lt;/div&gt;&lt;div&gt;Telefonnummer:&lt;/div&gt;&lt;div&gt;Personnummer:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.3,0,-6,0],[0,0.66,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="8qgibkEP4KIhBPvQSuZ9-41">
@@ -398,7 +398,7 @@
             <mxPoint x="15" y="40" as="sourcePoint" />
             <mxPoint x="36" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="15" y="50" />
+              <mxPoint x="15" y="54" />
               <mxPoint x="15" y="159" />
             </Array>
           </mxGeometry>
@@ -408,7 +408,7 @@
             <mxPoint x="25" y="80" as="sourcePoint" />
             <mxPoint x="-33" y="135" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="25" y="78" />
+              <mxPoint x="25" y="82" />
               <mxPoint x="25" y="139" />
             </Array>
           </mxGeometry>
