@@ -358,7 +358,7 @@
         </mxCell>
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-33" value="API Call:&amp;nbsp;&lt;div&gt;Get User&amp;nbsp;&lt;/div&gt;&lt;div&gt;Authorisation Token&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8qgibkEP4KIhBPvQSuZ9-32">
           <mxGeometry x="0.2099" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-27" as="offset" />
+            <mxPoint x="2" y="-57" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-34" value="Thanos&amp;nbsp;&lt;div&gt;Back End&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;glass=0;" vertex="1" parent="1">
@@ -433,7 +433,7 @@
         </mxCell>
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-54" value="API Call:&amp;nbsp;&lt;div&gt;Get New User Profile&lt;/div&gt;&lt;div&gt;Get Updated User Profile&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8qgibkEP4KIhBPvQSuZ9-52">
           <mxGeometry x="0.0195" y="-3" relative="1" as="geometry">
-            <mxPoint x="-3" y="29" as="offset" />
+            <mxPoint x="77" y="119" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T3K_JFK7z1kkOa9Re8E--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8qgibkEP4KIhBPvQSuZ9-55" target="8qgibkEP4KIhBPvQSuZ9-3">
@@ -504,7 +504,7 @@
         </mxCell>
         <mxCell id="T3K_JFK7z1kkOa9Re8E--10" value="Event:&amp;nbsp;&lt;div&gt;User Profile&amp;nbsp;&lt;/div&gt;&lt;div&gt;Data Capture&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T3K_JFK7z1kkOa9Re8E--9">
           <mxGeometry x="-0.1375" y="1" relative="1" as="geometry">
-            <mxPoint x="-22" y="1" as="offset" />
+            <mxPoint x="-72" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T3K_JFK7z1kkOa9Re8E--1" value="Walley" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;glass=0;" vertex="1" parent="1">
@@ -525,7 +525,7 @@
         </mxCell>
         <mxCell id="T3K_JFK7z1kkOa9Re8E--12" value="Event Listener:&amp;nbsp;&lt;div&gt;#ExternalUserProfile Topics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T3K_JFK7z1kkOa9Re8E--11">
           <mxGeometry x="0.19" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" y="-110" as="offset" />
+            <mxPoint x="-79" y="-158" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kCnIFDjgbVqlDO9NK-F-1" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
