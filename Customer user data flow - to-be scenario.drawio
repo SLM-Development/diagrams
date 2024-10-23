@@ -333,10 +333,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4X83Fl2oLOCMitRsY0ut-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;elbow=vertical;dashed=1;" parent="1" source="8qgibkEP4KIhBPvQSuZ9-6" target="8qgibkEP4KIhBPvQSuZ9-55" edge="1">
+        <mxCell id="4X83Fl2oLOCMitRsY0ut-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;elbow=vertical;dashed=1;" parent="1" source="8qgibkEP4KIhBPvQSuZ9-6" target="8qgibkEP4KIhBPvQSuZ9-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="460" />
+              <mxPoint x="554" y="460" />
+              <mxPoint x="810" y="460" />
+              <mxPoint x="810" y="110" />
+              <mxPoint x="404" y="110" />
             </Array>
             <mxPoint x="284" y="296" as="sourcePoint" />
             <mxPoint x="420" y="130" as="targetPoint" />
@@ -344,7 +347,7 @@
         </mxCell>
         <mxCell id="4X83Fl2oLOCMitRsY0ut-2" value="Set password&amp;nbsp;&lt;div&gt;(first time registration email)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4X83Fl2oLOCMitRsY0ut-1" vertex="1" connectable="0">
           <mxGeometry x="0.5601" y="1" relative="1" as="geometry">
-            <mxPoint x="-4" y="115" as="offset" />
+            <mxPoint x="-21" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;" parent="1" source="8qgibkEP4KIhBPvQSuZ9-3" target="8qgibkEP4KIhBPvQSuZ9-6" edge="1">
@@ -623,8 +626,8 @@
         <mxCell id="Uq1pCeKUHMeNmKVQieHc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;gradientColor=#ffd966;" parent="1" source="Uq1pCeKUHMeNmKVQieHc-2" target="8qgibkEP4KIhBPvQSuZ9-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="180" />
-              <mxPoint x="800" y="327" />
+              <mxPoint x="790" y="180" />
+              <mxPoint x="790" y="327" />
             </Array>
           </mxGeometry>
         </mxCell>
