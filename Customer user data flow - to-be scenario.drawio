@@ -411,12 +411,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8qgibkEP4KIhBPvQSuZ9-21" value="sven.svensson@goteborgsenergi.se" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#d6b656;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;gradientColor=#ffd966;" parent="1" source="8qgibkEP4KIhBPvQSuZ9-56" target="8qgibkEP4KIhBPvQSuZ9-3" edge="1">
-          <mxGeometry x="0.0251" y="-7" relative="1" as="geometry">
+          <mxGeometry x="0.1861" y="-7" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="590" y="217" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="660" y="211" />
-              <mxPoint x="660" y="307" />
+              <mxPoint x="610" y="211" />
+              <mxPoint x="610" y="307" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -668,7 +668,7 @@
           <mxGeometry width="186" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Apc_Dfm3Do_mlC3O6xLD-1" value="Secondary use case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fillStyle=auto;labelBackgroundColor=none;labelBorderColor=none;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="578" y="170" width="70" height="30" as="geometry" />
+          <mxGeometry x="536" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S20N0frMvKcGpQsej0k3-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Extended&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;user profile&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=13;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="729" y="730" width="90" height="40" as="geometry" />
