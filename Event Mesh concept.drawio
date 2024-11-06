@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.8.4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1860" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="360" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5TsWH3uMzf2Ny8_OYMp1-2" value="Azure Event&amp;nbsp;&lt;div&gt;Hubs&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Event_Hubs.svg;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-176">
-          <mxGeometry x="140" y="174.18" width="40" height="35.82" as="geometry" />
+          <mxGeometry x="135" y="170" width="50" height="44.78" as="geometry" />
         </mxCell>
         <mxCell id="5TsWH3uMzf2Ny8_OYMp1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.023;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-176" source="5TsWH3uMzf2Ny8_OYMp1-1" target="5TsWH3uMzf2Ny8_OYMp1-2">
           <mxGeometry relative="1" as="geometry">
@@ -159,9 +159,13 @@
         <mxCell id="x4RVm9M96yjkWzXjifI6-30" value="Third-Party SaaS Clouds" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=default;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="-430" width="220" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="x4RVm9M96yjkWzXjifI6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=1;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5TsWH3uMzf2Ny8_OYMp1-2" target="x4RVm9M96yjkWzXjifI6-1" edge="1">
+        <mxCell id="x4RVm9M96yjkWzXjifI6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" target="x4RVm9M96yjkWzXjifI6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="401" y="-571" as="sourcePoint" />
+            <mxPoint x="400" y="-600" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="517" y="-600" />
+              <mxPoint x="517" y="-495" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x4RVm9M96yjkWzXjifI6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="x4RVm9M96yjkWzXjifI6-33" target="x4RVm9M96yjkWzXjifI6-1" edge="1">
