@@ -393,7 +393,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ExE7GxzhrG30xC6ED5a-16" value="&lt;div&gt;Events #UserAccount:&lt;br&gt;&lt;/div&gt;&lt;div&gt;Non-PII User Data&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ExE7GxzhrG30xC6ED5a-13">
+        <mxCell id="3ExE7GxzhrG30xC6ED5a-16" value="&lt;div&gt;Events #UserAccount:&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aggregated User Data&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3ExE7GxzhrG30xC6ED5a-13">
           <mxGeometry x="0.2576" relative="1" as="geometry">
             <mxPoint x="22" y="5" as="offset" />
           </mxGeometry>
