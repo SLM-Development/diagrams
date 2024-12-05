@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="25.0.1" pages="2">
   <diagram name="Non-paying customers" id="YYRwiA1xToAAdd3JtBlB">
-    <mxGraphModel dx="168" dy="80" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="N4uxb6JnLH10JCopEIms-1" value="Login flow" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="JIOs8HF9aQNVbFvBmBlv-36" value="&lt;div&gt;Iterable&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
           <mxGeometry x="204" y="720" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JIOs8HF9aQNVbFvBmBlv-21" value="Segment.io" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
+        <mxCell id="JIOs8HF9aQNVbFvBmBlv-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Segment.io Amplitude or equivalent&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
           <mxGeometry x="377" y="354" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JIOs8HF9aQNVbFvBmBlv-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
@@ -354,7 +354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N4uxb6JnLH10JCopEIms-16" value="Customer Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;fillStyle=auto;glass=0;fillWeight=3;disableMultiStroke=0;disableMultiStrokeFill=0;sketchStyle=rough;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#b3b3b3;gradientDirection=north;" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
-          <mxGeometry x="428.88" y="360" width="140" height="20" as="geometry" />
+          <mxGeometry x="428.88" y="356" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yslGIPZhhn_wftm4TBrQ-7" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
           <mxGeometry x="637.63" y="496" width="30" height="30" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="14" y="525" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1" value="Distributed profile data" parent="0" />
-        <mxCell id="JIOs8HF9aQNVbFvBmBlv-8" value="Segment.io" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="JIOs8HF9aQNVbFvBmBlv-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Segment.io Amplitude or equivalent&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="377" y="354" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dd3niifwiFmpnuj567sv-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -660,7 +660,7 @@
           <mxGeometry x="260" y="774" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N4uxb6JnLH10JCopEIms-14" value="Customer Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;fillStyle=auto;glass=0;fillWeight=3;disableMultiStroke=0;disableMultiStrokeFill=0;sketchStyle=rough;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#b3b3b3;gradientDirection=north;" parent="1" vertex="1">
-          <mxGeometry x="429" y="360" width="140" height="20" as="geometry" />
+          <mxGeometry x="429" y="356" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ExE7GxzhrG30xC6ED5a-24" value="&lt;b&gt;User Service 2.0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="534.75" width="120" height="60" as="geometry" />
