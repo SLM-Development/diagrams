@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zGbDaNfx95HRnWShP1by-1" value="data storage layer" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingLeft=2;spacingTop=-2;fillColor=#fff2cc;fillStyle=auto;dashed=1;fontSize=10;strokeColor=#d6b656;fontStyle=1;strokeWidth=3;dashPattern=1 1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="904" width="720" height="126" as="geometry" />
+          <mxGeometry x="40" y="890" width="720" height="126" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="e5545xmRH3Jb9SJGrrUb-2" target="e5545xmRH3Jb9SJGrrUb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry x="150" y="460" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-36" value="Common Infra" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="330" y="938" width="106" height="50" as="geometry" />
+          <mxGeometry x="330" y="924" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-37" value="Adapter" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="380" width="106" height="50" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="263" y="730" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-43" value="CMS Sitebuilder" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="170" y="938" width="106" height="50" as="geometry" />
+          <mxGeometry x="170" y="924" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-44" value="React-Frontend" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="414" y="460" width="106" height="50" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry x="548" y="730" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-46" value="AWS Backup" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="938" width="106" height="50" as="geometry" />
+          <mxGeometry x="490" y="924" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-47" value="Event Service" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="405" y="730" width="106" height="50" as="geometry" />
