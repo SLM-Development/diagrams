@@ -12,8 +12,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zGbDaNfx95HRnWShP1by-1" value="data storage layer" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingLeft=2;spacingTop=-2;fillColor=#f8cecc;fillStyle=auto;dashed=1;fontSize=10;strokeColor=#b85450;fontStyle=1;strokeWidth=3;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="916" width="720" height="250" as="geometry" />
+        <mxCell id="zGbDaNfx95HRnWShP1by-1" value="data storage layer" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingLeft=2;spacingTop=-2;fillColor=#fff2cc;fillStyle=auto;dashed=1;fontSize=10;strokeColor=#d6b656;fontStyle=1;strokeWidth=3;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="904" width="720" height="126" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="e5545xmRH3Jb9SJGrrUb-2" target="e5545xmRH3Jb9SJGrrUb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,13 +80,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-4" value="data access layer" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingLeft=2;spacingTop=-2;fillColor=#f8cecc;fillStyle=auto;dashed=1;fontSize=10;strokeColor=#b85450;fontStyle=1;strokeWidth=3;dashPattern=1 1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="612" width="720" height="250" as="geometry" />
+          <mxGeometry x="40" y="622" width="720" height="198" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-8" value="SSO Adapter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-9" value="UserService" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="632" width="106" height="50" as="geometry" />
+          <mxGeometry x="122" y="650" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-10" value="Tracking-Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="380" width="106" height="50" as="geometry" />
@@ -121,40 +121,40 @@
           <mxGeometry x="150" y="460" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-36" value="Common Infra" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="950" width="106" height="50" as="geometry" />
+          <mxGeometry x="330" y="938" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-37" value="Adapter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="380" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-38" value="Common Artifacts&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Common%20Infra%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22150%22%20y%3D%22470%22%20width%3D%22106%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="213" y="632" width="106" height="50" as="geometry" />
+          <mxGeometry x="265" y="650" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-39" value="Tooling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="632" width="106" height="50" as="geometry" />
+          <mxGeometry x="407" y="650" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-40" value="Dashboard Plugins" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="498" y="632" width="106" height="50" as="geometry" />
+          <mxGeometry x="550" y="650" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-41" value="Renovate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="712" width="106" height="50" as="geometry" />
+          <mxGeometry x="122" y="730" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-42" value="ElastiCache" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="213" y="712" width="106" height="50" as="geometry" />
+          <mxGeometry x="265" y="730" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-43" value="CMS Sitebuilder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="950" width="106" height="50" as="geometry" />
+          <mxGeometry x="170" y="938" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-44" value="React-Frontend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="460" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-45" value="Iterable Bridge" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="498" y="712" width="106" height="50" as="geometry" />
+          <mxGeometry x="550" y="730" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-46" value="AWS Backup" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="453" y="950" width="106" height="50" as="geometry" />
+          <mxGeometry x="490" y="938" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-47" value="Event Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="712" width="106" height="50" as="geometry" />
+          <mxGeometry x="407" y="730" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5545xmRH3Jb9SJGrrUb-48" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="189" width="106" height="50" as="geometry" />
