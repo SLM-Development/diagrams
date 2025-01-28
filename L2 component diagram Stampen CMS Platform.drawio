@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.9">
   <diagram name="Page-1" id="uLC97kkECrQcUkzZvFg0">
-    <mxGraphModel dx="962" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1387" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="e5545xmRH3Jb9SJGrrUb-48" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="189" width="106" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e5545xmRH3Jb9SJGrrUb-49" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="e5545xmRH3Jb9SJGrrUb-49" value="AWS API Gateway" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="420" y="189" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LVvOtSNeGutr6rOgMHUB-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;L2 Container Diagram&lt;/h1&gt;&lt;p&gt;Container diagram according to c4model.com, describing Stampen&#39;s CMS platform.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -170,7 +170,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BU4JU-sKp2h5h3BOpqae-1" value="get components" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="zGbDaNfx95HRnWShP1by-4">
+        <mxCell id="BU4JU-sKp2h5h3BOpqae-1" value="get components" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="zGbDaNfx95HRnWShP1by-4" vertex="1" connectable="0">
           <mxGeometry x="0.0108" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
