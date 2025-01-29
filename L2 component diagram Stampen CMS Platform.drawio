@@ -94,7 +94,7 @@
           <mxGeometry x="80" y="622" width="640" height="178" as="geometry" />
         </mxCell>
         <mxCell id="kwydn21-n6TAve3_eSde-22" value="SSO SSA" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
-          <mxGeometry x="345.25" y="380" width="106" height="50" as="geometry" />
+          <mxGeometry x="490" y="380" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kwydn21-n6TAve3_eSde-23" value="UserService" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
           <mxGeometry x="490" y="650" width="106" height="50" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry x="490" y="189" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kwydn21-n6TAve3_eSde-29" value="Frontend Service" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
-          <mxGeometry x="490" y="380" width="106" height="50" as="geometry" />
+          <mxGeometry x="347" y="380" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kwydn21-n6TAve3_eSde-30" value="Cloudfront CDN" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
           <mxGeometry x="347" y="188" width="106" height="50" as="geometry" />
