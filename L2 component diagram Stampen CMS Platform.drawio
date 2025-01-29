@@ -328,7 +328,7 @@
         <mxCell id="bXcxnmbSdCZOq9qIhRyS-9" value="Next JS container" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXcxnmbSdCZOq9qIhRyS-10" value="Next JS container" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bXcxnmbSdCZOq9qIhRyS-10" value="NEXT.js container" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXcxnmbSdCZOq9qIhRyS-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bXcxnmbSdCZOq9qIhRyS-13" target="bXcxnmbSdCZOq9qIhRyS-3" edge="1">
