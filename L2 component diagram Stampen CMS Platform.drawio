@@ -313,7 +313,7 @@
         </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-95" value="authenticate and&amp;nbsp;&lt;div&gt;authorise user&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-94" vertex="1" connectable="0">
           <mxGeometry x="-0.5429" y="3" relative="1" as="geometry">
-            <mxPoint x="-72" y="-3" as="offset" />
+            <mxPoint x="-88" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bXcxnmbSdCZOq9qIhRyS-3" value="Frontend service (Fargate ECS)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
