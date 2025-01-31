@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.10" pages="3">
   <diagram name="L2 Platform" id="HBkMsWNpmGDnNlCVAA2V">
-    <mxGraphModel dx="1949" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kwydn21-n6TAve3_eSde-0" />
         <mxCell id="kwydn21-n6TAve3_eSde-1" parent="kwydn21-n6TAve3_eSde-0" />
@@ -127,9 +127,6 @@
         </mxCell>
         <mxCell id="kwydn21-n6TAve3_eSde-31" value="Revalidation Service" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
           <mxGeometry x="426.25" y="450" width="106" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kwydn21-n6TAve3_eSde-32" value="Search&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Content%20Service%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22550%22%20y%3D%22470%22%20width%3D%22106%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&amp;nbsp;Service" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
-          <mxGeometry x="534" y="830" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kwydn21-n6TAve3_eSde-35" value="Content Management System" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="kwydn21-n6TAve3_eSde-1" vertex="1">
           <mxGeometry x="347" y="650" width="106" height="50" as="geometry" />
