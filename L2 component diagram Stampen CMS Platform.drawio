@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OKkPYox5lqzqK04AX4oZ" name="L3 Platform">
-    <mxGraphModel dx="2326" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2214" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,7 +265,7 @@
         <mxCell id="yIdPWGPFP1lP1WbufKS8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bXcxnmbSdCZOq9qIhRyS-2" target="yIdPWGPFP1lP1WbufKS8-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-78" value="check out&amp;nbsp;&lt;div&gt;purchase&lt;/div&gt;&lt;div&gt;(check with Pedram)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-77" vertex="1" connectable="0">
+        <mxCell id="yIdPWGPFP1lP1WbufKS8-78" value="check out&amp;nbsp;&lt;div&gt;purchase&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-77" vertex="1" connectable="0">
           <mxGeometry x="-0.6368" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -549,7 +549,7 @@
             <mxPoint x="514.1999999999998" y="314.69999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-1" value="track user&amp;nbsp;&lt;div&gt;behaviour&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tP8exgxzf0Mj8cLFwiFB-6">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-1" value="track user&amp;nbsp;&lt;div&gt;behaviour&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tP8exgxzf0Mj8cLFwiFB-6" vertex="1" connectable="0">
           <mxGeometry x="0.4924" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -580,28 +580,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-3" value="Piano" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-3" value="Piano" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="80" y="290" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-4" value="Flowplayer" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-4" value="Flowplayer" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="160" y="290" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-5" value="Tracking Services" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-5" value="Tracking Services" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="500" y="290" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-6" value="Aria" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-6" value="Aria" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="2" y="290" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-7" value="Walley" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-7" value="Walley" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="-490" y="555" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-8" value="Iterable" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-8" value="Iterable" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="-205" y="912" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-9" value="Naviga Writer" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-9" value="Naviga Writer" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1154" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9K-MlYrmNKy_yJfwosX-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;exitX=0.024;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y9K-MlYrmNKy_yJfwosX-9" target="yIdPWGPFP1lP1WbufKS8-56">
+        <mxCell id="Y9K-MlYrmNKy_yJfwosX-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;exitX=0.024;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Y9K-MlYrmNKy_yJfwosX-9" target="yIdPWGPFP1lP1WbufKS8-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="907.5" y="1179.9999999999998" as="targetPoint" />
             <mxPoint x="1026.5" y="1178.9999999999998" as="sourcePoint" />
