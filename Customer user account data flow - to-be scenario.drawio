@@ -107,7 +107,7 @@
             <mxPoint x="7" y="-117" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="399uIYjcvqAqCW6wGWdr-2" value="&lt;span&gt;Raw data feed&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="JIOs8HF9aQNVbFvBmBlv-116" vertex="1" connectable="0">
+        <mxCell id="399uIYjcvqAqCW6wGWdr-2" value="&lt;span&gt;data feed&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="JIOs8HF9aQNVbFvBmBlv-116" vertex="1" connectable="0">
           <mxGeometry x="-0.1515" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -140,7 +140,7 @@
             <mxPoint x="21" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="399uIYjcvqAqCW6wGWdr-1" value="Raw data feed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="JIOs8HF9aQNVbFvBmBlv-29" vertex="1" connectable="0">
+        <mxCell id="399uIYjcvqAqCW6wGWdr-1" value="data feed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="JIOs8HF9aQNVbFvBmBlv-29" vertex="1" connectable="0">
           <mxGeometry x="0.1807" y="3" relative="1" as="geometry">
             <mxPoint x="18" as="offset" />
           </mxGeometry>
@@ -395,8 +395,8 @@
             <mxRectangle x="349" y="430" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oc9iRaVv8JoBrQkCamYU-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Stampen ID:&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Okta ID:&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Aria ID:&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Piano ID:&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Oc9iRaVv8JoBrQkCamYU-5">
-          <mxGeometry x="10" y="20" width="70" height="60" as="geometry" />
+        <mxCell id="Oc9iRaVv8JoBrQkCamYU-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Stampen ID:&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Okta ID:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Basic info:&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Aria ID:&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Piano ID:&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Oc9iRaVv8JoBrQkCamYU-5">
+          <mxGeometry x="10" y="18" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JIOs8HF9aQNVbFvBmBlv-74" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" parent="JIOs8HF9aQNVbFvBmBlv-20" vertex="1">
           <mxGeometry x="660" y="687" width="30" height="30" as="geometry" />
