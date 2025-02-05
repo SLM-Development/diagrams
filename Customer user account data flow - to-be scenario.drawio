@@ -102,7 +102,7 @@
             <mxPoint x="650" y="524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JIOs8HF9aQNVbFvBmBlv-126" value="Events #UserAccount&lt;div&gt;User Account Created&lt;/div&gt;&lt;div&gt;User Account Changed&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JIOs8HF9aQNVbFvBmBlv-116" vertex="1" connectable="0">
+        <mxCell id="JIOs8HF9aQNVbFvBmBlv-126" value="Events #UserAccount&lt;div&gt;User Account Created&lt;/div&gt;&lt;div&gt;User Account Updated&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JIOs8HF9aQNVbFvBmBlv-116" vertex="1" connectable="0">
           <mxGeometry x="0.3827" y="-1" relative="1" as="geometry">
             <mxPoint x="7" y="-117" as="offset" />
           </mxGeometry>
