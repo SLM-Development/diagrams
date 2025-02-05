@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yslGIPZhhn_wftm4TBrQ-13" value="account data&amp;nbsp;&lt;div&gt;in Event&amp;nbsp;&lt;/div&gt;&lt;div&gt;payload&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yslGIPZhhn_wftm4TBrQ-12" vertex="1" connectable="0">
+        <mxCell id="yslGIPZhhn_wftm4TBrQ-13" value="account data&amp;nbsp;&lt;div&gt;in Event payload&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yslGIPZhhn_wftm4TBrQ-12" vertex="1" connectable="0">
           <mxGeometry x="-0.3398" y="-2" relative="1" as="geometry">
             <mxPoint x="-32" y="-9" as="offset" />
           </mxGeometry>
