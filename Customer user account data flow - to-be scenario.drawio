@@ -619,12 +619,15 @@
         <mxCell id="3t2poUQqlpVYaqUKuZvh-44" value="Stampen ID:&lt;div&gt;Förnamn:&lt;div&gt;Efternamn:&lt;/div&gt;&lt;div&gt;Emailadress:&lt;/div&gt;&lt;div&gt;Telefonnummer:&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[[0,0.37,0,-6,0],[0,0.77,0,-6,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="3t2poUQqlpVYaqUKuZvh-43" vertex="1">
           <mxGeometry x="10" y="15" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3t2poUQqlpVYaqUKuZvh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.47;exitDx=-6;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.77;entryDx=-6;entryDy=0;entryPerimeter=0;dashed=1;" parent="3t2poUQqlpVYaqUKuZvh-41" source="3t2poUQqlpVYaqUKuZvh-42" target="3t2poUQqlpVYaqUKuZvh-44" edge="1">
+        <mxCell id="3t2poUQqlpVYaqUKuZvh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.47;exitDx=-6;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.77;entryDx=-6;entryDy=0;entryPerimeter=0;dashed=1;" parent="3t2poUQqlpVYaqUKuZvh-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-39.5" y="62.5" as="sourcePoint" />
-            <mxPoint x="-23.5" y="117.5" as="targetPoint" />
+            <mxPoint x="25" y="60.200000000000045" as="sourcePoint" />
+            <mxPoint x="45" y="155.89999999999986" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="8" y="146" />
+              <mxPoint x="10" y="60" />
+              <mxPoint x="10" y="153" />
+              <mxPoint x="8" y="153" />
+              <mxPoint x="8" y="156" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -633,7 +636,8 @@
             <mxPoint x="-49" y="80" as="sourcePoint" />
             <mxPoint x="-33" y="135" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="17" y="122" />
+              <mxPoint x="17" y="68" />
+              <mxPoint x="17" y="121" />
             </Array>
           </mxGeometry>
         </mxCell>
