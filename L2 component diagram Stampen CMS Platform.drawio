@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OKkPYox5lqzqK04AX4oZ" name="L3 Platform">
-    <mxGraphModel dx="2548" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -616,7 +616,7 @@
         <mxCell id="yIdPWGPFP1lP1WbufKS8-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bXcxnmbSdCZOq9qIhRyS-3" target="yIdPWGPFP1lP1WbufKS8-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-70" value="get&amp;nbsp;&lt;div&gt;content&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-69" vertex="1" connectable="0">
+        <mxCell id="yIdPWGPFP1lP1WbufKS8-70" value="get&amp;nbsp;&lt;div&gt;article content&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-69" vertex="1" connectable="0">
           <mxGeometry x="-0.3182" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
