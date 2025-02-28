@@ -230,6 +230,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yIdPWGPFP1lP1WbufKS8-39" value="(Article) Content API &amp;nbsp;/ (Article) Content Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="265.74" y="809" width="210" height="401" as="geometry" />
+        </mxCell>
         <mxCell id="bXcxnmbSdCZOq9qIhRyS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bXcxnmbSdCZOq9qIhRyS-1" target="bXcxnmbSdCZOq9qIhRyS-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -413,7 +416,7 @@
         <mxCell id="yIdPWGPFP1lP1WbufKS8-38" value="Read model&amp;nbsp;&lt;div&gt;template bucket&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yIdPWGPFP1lP1WbufKS8-39" target="yIdPWGPFP1lP1WbufKS8-44" edge="1">
+        <mxCell id="yIdPWGPFP1lP1WbufKS8-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yIdPWGPFP1lP1WbufKS8-43" target="yIdPWGPFP1lP1WbufKS8-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-51" value="get&amp;nbsp;&lt;div&gt;article content&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-49" vertex="1" connectable="0">
@@ -421,16 +424,13 @@
             <mxPoint x="5" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yIdPWGPFP1lP1WbufKS8-39" target="yIdPWGPFP1lP1WbufKS8-44" edge="1">
+        <mxCell id="yIdPWGPFP1lP1WbufKS8-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yIdPWGPFP1lP1WbufKS8-43" target="yIdPWGPFP1lP1WbufKS8-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-54" value="store&amp;nbsp;&lt;div&gt;article content&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yIdPWGPFP1lP1WbufKS8-53" vertex="1" connectable="0">
           <mxGeometry x="0.1" y="3" relative="1" as="geometry">
             <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-39" value="(Article) Content API &amp;nbsp;/ (Article) Content Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="265.74" y="809" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-40" value="AppSync API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310.74" y="839" width="120" height="60" as="geometry" />
@@ -444,17 +444,14 @@
         <mxCell id="yIdPWGPFP1lP1WbufKS8-43" value="Resolver Lambdas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330.74" y="929" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-44" value="(Article) Content Database (RDS)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="265.74" y="1120" width="210" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-45" value="Aurora PostgreSQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310.74" y="1169" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="yIdPWGPFP1lP1WbufKS8-56" target="yIdPWGPFP1lP1WbufKS8-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="1179" />
-              <mxPoint x="590" y="974" />
+              <mxPoint x="590" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
