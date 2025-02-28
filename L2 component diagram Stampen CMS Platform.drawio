@@ -373,7 +373,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIdPWGPFP1lP1WbufKS8-16" value="(Editorial) Content Management System&amp;nbsp;&lt;div&gt;(Fargate ECS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="yIdPWGPFP1lP1WbufKS8-16" value="(Editorial CMS) CMS Sitebuilder &amp;nbsp;&lt;div&gt;(Fargate ECS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="680" y="809" width="245" height="231" as="geometry" />
         </mxCell>
         <mxCell id="yIdPWGPFP1lP1WbufKS8-17" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
